@@ -1,3 +1,4 @@
+//best way
 """
 Django settings for website project.
 
